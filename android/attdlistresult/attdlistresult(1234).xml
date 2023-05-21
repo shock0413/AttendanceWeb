@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf8"?> 
+<data>
+<meet_date>2018-12-12</meet_date>
+<meet_name>TEST</meet_name>
+<meet_start>15:00:00</meet_start>
+<meet_end>17:00:00</meet_end>
+<meet_check>NO</meet_check>
+<meet_date>2018-12-14</meet_date>
+<meet_name>영산대</meet_name>
+<meet_start>09:30:00</meet_start>
+<meet_end>12:20:00</meet_end>
+<meet_check>NO</meet_check>
+<meet_date>2018-12-12</meet_date>
+<meet_name>와이즈유</meet_name>
+<meet_start>12:30:00</meet_start>
+<meet_end>17:30:00</meet_end>
+<meet_check>YES</meet_check>
+</data>

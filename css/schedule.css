@@ -1,0 +1,171 @@
+#content #col2 {
+	width:807px;
+	min-height:558px;
+	float:left;
+	margin-left:15px;
+}
+
+#content #col2 #title {
+	margin-top:30px;
+	height:30px;
+	border-bottom:solid 1px #cccccc;
+}
+
+.schedule_setting_line {
+	width:99%;
+	border-bottom:solid 1px #cccccc;
+}
+
+#setting_form {
+	margin-top:10px;
+	overflow:hidden;
+}
+
+#setting_form #schedule_setting_row1 {
+	width:99%;
+	height:25px;
+	margin:2px 0 2px 0;
+}
+
+#setting_form #schedule_setting_row2 {
+	width:99%;
+	height:25px;
+	margin:2px 0 2px 0;
+}
+
+#setting_form #schedule_setting_row3 {
+	width:99%;
+	height:25px;
+	margin:2px 0 2px 0;
+}
+
+#setting_form #schedule_setting_row4 {
+	width:99%;
+	height:25px;
+	margin:2px 0 2px 0;
+}
+
+#setting_form #schedule_setting_row5 {
+	width:99%;
+	height:25px;
+	margin:2px 0 2px 0;
+}
+
+#setting_form .col1 {
+	float:left;
+	width:120px;
+	text-align:center;
+	padding:5px;
+	background-color:#eeeeee;
+}
+
+#setting_form .col2 {
+	float:left;
+	margin-left:8px;
+}
+
+#setting_button {
+	margin-top:15px;
+	width:97%;
+	text-align:right;
+}
+
+#list_top_title {
+	height:20px;
+	padding:7px;
+	border-top:solid 2px #aaaaaa;
+	background-color:#eeeeee;
+	margin-bottom:3px;
+}
+
+#list_top_title li {
+	display:inline;
+}
+
+#list_top_title #list_title1 {
+	margin-left:5px;
+}
+
+#list_top_title #list_title2 {
+	margin-left:5px;
+}
+
+#list_top_title #list_title3 {
+	margin-left:8px;
+}
+
+#list_top_title #list_title4 {
+	margin-left:8px;
+}
+
+#list_top_title #list_title5 {
+	margin-left:5px;
+}
+
+#list_top_title #list_title6 {
+	margin-left:5px;
+}
+
+#list_content {
+	height:380px;
+}
+
+#list_item {
+	height:18px;
+	margin-top:2px;
+	padding:6px;
+	border-bottom:solid 1px #eeeeee;
+}
+
+#list_item #list_item1 {
+	float:left;
+	width:40px;
+	text-align:center;
+}
+
+#list_item #list_item2 {
+	float:left;
+	width:50px;
+	text-align:center;
+}
+
+#list_item #list_item3 {
+	float:left;
+	width:70px;
+	text-align:center;
+}
+
+#list_item #list_item4 {
+	float:left;
+	width:60px;
+	text-align:center;
+}
+
+#list_item #list_item5 {
+	float:left;
+	width:65px;
+	text-align:center;
+}
+
+#list_item #list_item6 {
+	float:left;
+	width:45px;
+	text-align:center;
+}
+
+#page_button {
+	margin-top:20px;
+}
+
+#page_num {
+	float:left;
+	width:80%;
+	margin-top:10px;
+	text-align:center;
+}
+
+#button {
+	float:left;
+	width:18%;
+	text-align:right;
+}

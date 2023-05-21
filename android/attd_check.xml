@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf8"?> 
+<node>
+<meet_num>1</meet_num>
+<check>YES</check>
+<meet_num>2</meet_num>
+<check>YES</check>
+<meet_num>3</meet_num>
+<check>YES</check>
+<meet_num>4</meet_num>
+<check>NO</check>
+</node>
